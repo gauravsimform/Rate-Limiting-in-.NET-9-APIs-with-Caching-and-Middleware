@@ -1,0 +1,6 @@
+@RateLimitingBlogDemo_HostAddress = http://localhost:5133
+
+GET {{RateLimitingBlogDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
